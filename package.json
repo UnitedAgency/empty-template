@@ -1,0 +1,25 @@
+{
+  "name": "empty-template",
+  "version": "0.0.1",
+  "description": "Empty app template with Node.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UnitedAgency/empty-template.git"
+  },
+  "author": "Jabran Rafique <jabran@united-agency.co.uk>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/UnitedAgency/empty-template/issues"
+  },
+  "homepage": "https://github.com/UnitedAgency/empty-template",
+  "private": "true",
+  "dependencies": {
+    "connect": "~3.2.0",
+    "body-parser": "~1.8.3",
+    "serve-static": "~1.6.2"
+  }
+}
