@@ -1,4 +1,4 @@
-# Empty app templpate with Node.js server
+# Empty app template with Node.js server
 
 
 To use this template follow these steps:
