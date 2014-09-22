@@ -1,5 +1,5 @@
-Empty app templpate with Node.js server
-=======================================
+# Empty app templpate with Node.js server
+
 
 To use this template follow these steps:
 
